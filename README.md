@@ -41,6 +41,8 @@ Os usuários NÃO PRECISAM responder todas as perguntas. Em todas as perguntas h
 
 ## Como posso ajudar?
 
+Nossa idéia é que qualquer pessoa possa ajudar com o projeto. Temos alguns exemplos como:
+
 ### Desenvolvedores
 ### Ajude a pressionar
 ### Ajude com custos do servidor
