@@ -19,6 +19,11 @@ Tanto os candidatos quanto os eleitores devem responder as mesmas perguntas, que
  - Discordo Plenamente
 
 ### Como candidatos vão responder as perguntas?
+
+Os candidatos deverão de cadastrar e mostrar todas as informações sobre o mesmo. O principal é se cadastrarem com o email informado no TSE, para evitarmos fraudes nas respostas.
+
+Além disso, os candidatos são obrigados a cadastrar TODAS as perguntas. Se alguma não for respondida, ele não aparecerá para ninguém.
+
 ### Como usuários vão responder as perguntas?
 
 ## Como vamos fazer o match?
