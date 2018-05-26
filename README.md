@@ -39,6 +39,8 @@ Os usuários NÃO PRECISAM responder todas as perguntas. Em todas as perguntas h
   - Uma reposta distinta, porém concordante (discordo + discordo plenamente, concordo + concordo plenamente), contabiliza 1 ponto
   - Respostas discordantes (concordo + discordo) não contabilizam pontos
 
+Além disso, estamos desenvolvendo uma [Prova de Conceito](https://github.com/Minhacps/votasp-poc-matcher) de como vai funcionar o match internamente. Ajuda lá!
+
 ## Como posso ajudar?
 
 Nossa idéia é que qualquer pessoa possa ajudar com o projeto. Temos alguns exemplos como:
