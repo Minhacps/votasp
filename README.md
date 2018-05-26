@@ -44,5 +44,10 @@ Os usuários NÃO PRECISAM responder todas as perguntas. Em todas as perguntas h
 Nossa idéia é que qualquer pessoa possa ajudar com o projeto. Temos alguns exemplos como:
 
 ### Desenvolvedores
+Estamos em um processo embrionário do projeto. Já temos algumas estruturas de como o sistema deveria se comportar (olhe os repositórios de front-end e back-end para entender melhor).
+
+Você pode ajudar contribuindo com issues/pull-requests ou simplesmente aparecendo no nosso Discord pra conversar.
+
+### Ajude a escrever as perguntas
 ### Ajude a pressionar
 ### Ajude com custos do servidor
