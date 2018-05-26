@@ -53,4 +53,6 @@ Você pode nos ajudar ajudando a escrever perguntas também.
 Você acesse aqui para ajudar: (link)[TODO LINK]
 
 ### Ajude a pressionar
+Você também pode ajudar o projeto pressionando os candidatos que você conhece a preencher nossas perguntas. (Isso é muito importante para nós!)
+
 ### Ajude com custos do servidor
