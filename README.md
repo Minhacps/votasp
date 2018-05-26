@@ -26,6 +26,10 @@ Além disso, os candidatos são obrigados a cadastrar TODAS as perguntas. Se alg
 
 ### Como usuários vão responder as perguntas?
 
+Os usuários podem se cadastrar de qualquer formato, email ou redes sociais como em qualquer site/aplicativo. (Estamos pensando em soluções para tornar isso o mais anonimo possível.)
+
+Os usuários NÃO PRECISAM responder todas as perguntas. Em todas as perguntas haverá uma opção para pular. Mas lembre-se que quanto mais você preencher, melhor funcionará esse match.
+
 ## Como vamos fazer o match?
 
 ## Como posso ajudar?
