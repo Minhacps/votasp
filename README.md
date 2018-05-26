@@ -49,5 +49,8 @@ Estamos em um processo embrionário do projeto. Já temos algumas estruturas de 
 Você pode ajudar contribuindo com issues/pull-requests ou simplesmente aparecendo no nosso Discord pra conversar.
 
 ### Ajude a escrever as perguntas
+Você pode nos ajudar ajudando a escrever perguntas também.
+Você acesse aqui para ajudar: (link)[TODO LINK]
+
 ### Ajude a pressionar
 ### Ajude com custos do servidor
