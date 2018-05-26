@@ -56,3 +56,6 @@ Você acesse aqui para ajudar: (link)[TODO LINK]
 Você também pode ajudar o projeto pressionando os candidatos que você conhece a preencher nossas perguntas. (Isso é muito importante para nós!)
 
 ### Ajude com custos do servidor
+Você também pode nos ajudar com custos que nossos servidores tem. Estamos planejando uma arquitetura de microserviços e atualmente estamos rodando no Google Cloud.
+
+Se você tem uma ferramenta que usamos, também pode ajudar facilitando os custos, como fizemos com o auth0, por exemplo.
