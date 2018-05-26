@@ -32,6 +32,13 @@ Os usuários NÃO PRECISAM responder todas as perguntas. Em todas as perguntas h
 
 ## Como vamos fazer o match?
 
+- O Candidato vai poder responder com `Concordo Plenamente`, `Concordo`, `Discordo`, `Discordo Plenamente`
+- O Eleitor vai poder responder com todas as opções acima, e adicionalmente com `Indireferente`, o que irá desconsiderar a questão no cálculo do match.
+- Para calcular o match:
+  - Uma resposta igual conta 2 pontos
+  - Uma reposta distinta, porém concordante (discordo + discordo plenamente, concordo + concordo plenamente), contabiliza 1 ponto
+  - Respostas discordantes (concordo + discordo) não contabilizam pontos
+
 ## Como posso ajudar?
 
 ### Desenvolvedores
