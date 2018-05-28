@@ -45,6 +45,9 @@ Além disso, estamos desenvolvendo uma [Prova de Conceito](https://github.com/Mi
 
 Nossa idéia é que qualquer pessoa possa ajudar com o projeto. Temos alguns exemplos como:
 
+### Discord
+Você pode ajudar simplesmente conversando e dando feedbacks no nosso [Discord](https://discord.gg/TGfXVHy)
+
 ### Desenvolvedores
 Estamos em um processo embrionário do projeto. Já temos algumas estruturas de como o sistema deveria se comportar (olhe os repositórios de front-end e back-end para entender melhor).
 
