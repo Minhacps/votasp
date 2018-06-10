@@ -1,4 +1,4 @@
-id | Pergunta | Descrição
+id | Questão | Descrição
 -- | -------- | ---------
 1	|	Regulamentação dos meios de comunicação.	|	Descrição 1
 2	|	Liberação dos portes de armas no Brasil.	|	Descrição 2
@@ -37,4 +37,3 @@ id | Pergunta | Descrição
 35	|	Ricos e pobres tem o mesmo acesso a direitos no Brasil	|	Descrição 35
 36	|	Privatização da previdência social. 	|	Descrição 36
 37	|	As Universidades Públicas deveriam ser paga por quem pode pagar.	|	Descrição 37
-
