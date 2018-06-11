@@ -57,7 +57,7 @@ Você pode ajudar contribuindo com issues/pull-requests ou simplesmente aparecen
 
 ### Ajude a escrever as questões
 Você pode nos ajudar ajudando a escrever questões também.
-Você acesse aqui para ajudar: (link)[TODO LINK]
+Elas estão no arquivo [QUESTOES.md](QUESTOES.md)
 
 ### Ajude a pressionar
 Você também pode ajudar o projeto pressionando os candidatos que você conhece a preencher nossas questões. (Isso é muito importante para nós!)
