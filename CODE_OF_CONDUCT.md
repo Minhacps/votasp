@@ -1,18 +1,18 @@
-# Código de Condúta
+# Código de Conduta
 
-Nós, como comunidade do VotaSP esperamos que todos tenham respeito pelo próximo e que sejam respeitados,
-independentemente do seu background.
+Esperamos que todos respeitem e sejam respeitados, independentemente de qualquer diversidade.
 
-Para que esse objetivo seja cumprido, resolvemos usar o **Código de Conduta do Codamos**,
-pois acreditamos ser o mais inclusivo e aceito pelas comunidades de desenvolvimento no brasil.
+Para garantir isso, derivamos o código de conduta do VotaSP do [**código de conduta do Codamos**](https://www.codamos.club/codigo-de-conduta), pois acreditamos ser o mais inclusivo e aceito pelas comunidades de desenvolvimento no Brasil.
 
-Se você tem o objetivo de participar da comunidade VotaSP, peçamos para ler e aderir às diretrizes descritas nele.
-Então, antes de mais nada, separe um tempo para le-lo, [nessa página](https://www.codamos.club/codigo-de-conduta).
+Caso você tenha o objetivo de participar da comunidade VotaSP, pedimos que o leia e siga as diretrizes nele descritas.
 
-Se você sofreu ou viu algum comportamento que vai contra esse código, por favor, entre em contato com nossa organização.
-Converse conosco no nosso Discord ou por email.
+## Denúncia
 
-## Contatos
-- Organização do Minha Campinas (contato@minhacampinas.org.br)
+Caso você sofra ou veja algum comportamento que vai contra esse código de conduta, por favor, reporte-nos o ocorrido.
+
+### Contatos
+
+- Minha Campinas (contato@minhacampinas.org.br)
 - Victor Perin (me@victorperin.ninja)
 - Amanda Yoshiizumi (mandy.yoshiizumi@gmail.com)
+- Discord (https://discord.gg/GFBTFC4)
