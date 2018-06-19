@@ -66,3 +66,15 @@ Você também pode ajudar o projeto pressionando os candidatos que você conhece
 Você também pode nos ajudar com custos que nossos servidores tem. Estamos planejando uma arquitetura de microserviços e atualmente estamos rodando no Google Cloud.
 
 Se você tem uma ferramenta que usamos, também pode ajudar facilitando os custos, como fizemos com o auth0, por exemplo.
+
+## Contribuição
+
+Agradecemos por considerar contribuir com o VotaSP! Você encontra como fazê-lo em nosso [Guia de Contribuição](CONTRIBUTING.md).
+
+## Código de Conduta
+
+Para garantir que a comunidade do VotaSP seja acolhedora para todos, leia e siga o nosso [Código de Conduta](CODE_OF_CONDUCT.md).
+
+## Licença
+
+O VotaSP é um software de código aberto licenciado sob a [Licença MIT](LICENSE.md).
