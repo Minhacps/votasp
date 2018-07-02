@@ -34,3 +34,9 @@ id | Questão | Descrição
 32	|	Maior carga tributária para empresas estrangeiras com o objetivo de beneficiar empresas brasileiras. 	|	Descrição 32
 33	|	Pena de morte.	|	Descrição 33
 34	|	As Universidades Públicas deveriam ser paga por quem pode pagar.	|	Descrição 34
+35	|	Construção de moradias populares na periferia mesmo antes de garantir atendimento básico como centros de saúde e escolas	|	Descrição 35
+36	|	Grandes empreendimentos podem iniciar suas obras mesmo antes de conseguirem permissão ambiental	|	Descrição 36
+37	|	Crescimento econômico é mais importante que igualdade social	|	Descrição 37
+38	|	Interferência do estado na economia. 	|	Descrição 38
+39	|	Redução da verba de gabinete para parlamentares	|	Descrição 39
+40	|	O governo tem um papel essencial na regulação dos mercados para garantir os direitos dos consumidores. 	|	Descrição 40
